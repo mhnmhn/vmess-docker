@@ -1,6 +1,6 @@
-# v2ray docker
+# xray vmess+ws docker
 
-a docker image based of [teddysun/v2ray](https://hub.docker.com/r/teddysun/v2ray)
+a docker image based of [teddysun/xray](https://hub.docker.com/r/teddysun/xray)
 
 ## environment variables
 
